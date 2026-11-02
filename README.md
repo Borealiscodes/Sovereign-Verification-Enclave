@@ -1,0 +1,2 @@
+# Sovereign-Verification-Enclave
+Consolidation
